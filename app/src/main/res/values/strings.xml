@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">snehatimer</string>
+
+
+    <string name="start">Start</string>
+
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="by_yoggie">By Yoggie</string>
+    <string name="lap">lap</string>
+</resources>
