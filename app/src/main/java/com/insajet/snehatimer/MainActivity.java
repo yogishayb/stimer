@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
     int seconds = 0;
     long milliseconds = 0;
     ListView listView;
+    String g;
     ArrayList<String> arrayList;
     ArrayAdapter<String> arrayAdapter;
 
