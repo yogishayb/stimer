@@ -21,7 +21,6 @@ import java.util.Random;
 public class MainActivity extends AppCompatActivity {
 
     boolean running = false;
-    boolean wasRunning = false;
     TextView textView;
     int seconds = 0;
     long milliseconds = 0;
